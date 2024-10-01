@@ -1,0 +1,21 @@
+Metadata-Version: 2.1
+Name: package_publishing2
+Version: 0.1
+Summary: A simple example private package
+Home-page: https://github.com/nehargupta/packagedemo2
+Author: Neha
+Author-email: nehargupta@cmu.edu
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.6
+Description-Content-Type: text/markdown
+
+# My Package
+
+A simple example package.
+
+## Installation
+
+```bash
+pip install package_publishing
