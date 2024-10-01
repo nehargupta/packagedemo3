@@ -1,5 +1,5 @@
 Metadata-Version: 2.1
-Name: package_publishing2
+Name: package_publishing3
 Version: 0.1
 Summary: A simple example private package
 Home-page: https://github.com/nehargupta/packagedemo2
@@ -17,5 +17,4 @@ A simple example package.
 
 ## Installation
 
-```bash
-pip install package_publishing
+Details here lol. 
