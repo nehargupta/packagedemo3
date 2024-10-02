@@ -3,7 +3,7 @@ from package_publishing import add, subtract
 
 class TestModule1(unittest.TestCase):
 
-    def test_Sadd(self):
+    def test_add(self):
         self.assertEqual(add(1, 2), 3)
         self.assertEqual(add(-1, 1), 0)
     

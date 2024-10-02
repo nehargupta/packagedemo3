@@ -2,7 +2,7 @@ Metadata-Version: 2.1
 Name: package_publishing3
 Version: 0.1
 Summary: A simple example private package
-Home-page: https://github.com/nehargupta/packagedemo2
+Home-page: https://github.com/nehargupta/packagedemo3
 Author: Neha
 Author-email: nehargupta@cmu.edu
 Classifier: Programming Language :: Python :: 3

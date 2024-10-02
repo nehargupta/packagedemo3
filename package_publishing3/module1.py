@@ -12,9 +12,3 @@ class DoMath:
 
     def predict(self):
         return self.answer
-
-def add(a, b):
-    return a + b
-
-def subtract(a, b):
-    return a - b

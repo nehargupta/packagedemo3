@@ -6,5 +6,7 @@ package_publishing3.egg-info/PKG-INFO
 package_publishing3.egg-info/SOURCES.txt
 package_publishing3.egg-info/dependency_links.txt
 package_publishing3.egg-info/top_level.txt
+package_publishing3/utils/__init__.py
+package_publishing3/utils/post_processing.py
 tests/__init__.py
 tests/test_module1.py

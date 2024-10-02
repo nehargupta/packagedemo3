@@ -10,7 +10,7 @@ setup(
     description="A simple example private package",
     long_description=open("README.md").read(),
     long_description_content_type="text/markdown",
-    url="https://github.com/nehargupta/packagedemo2",
+    url="https://github.com/nehargupta/packagedemo3",
     classifiers=[
         "Programming Language :: Python :: 3",
         "License :: OSI Approved :: MIT License",
